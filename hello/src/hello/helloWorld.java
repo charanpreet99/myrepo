@@ -6,7 +6,7 @@ class abc{
 	}
 	int k=10;
 	int p;
-	String name="CHARANPREET";
+	String name="CHARANPREET KAUR BL INFORMATIONS INDIA LTD";
 }
 public class helloWorld {
 	public static void main(String args[])
