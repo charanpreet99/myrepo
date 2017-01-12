@@ -6,7 +6,7 @@ class abc{
 	}
 	int k=10;
 	int p;
-	String name="CHARANPREET KAUR DHILLON";
+	String name="CHARANPREET KAUR DHILLON IS MY NAME. THIS IS NEW REPO CHANGE";
 }
 public class helloWorld {
 	public static void main(String args[])
